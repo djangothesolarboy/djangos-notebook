@@ -1,5 +1,4 @@
 # djangos-notebook
----
 > 'What does it mean to be a **Notebook** application?'  
 
 Functional Requirements  
